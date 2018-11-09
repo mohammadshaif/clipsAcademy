@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body{font-family: 'Poppins', sans-serif;}
+.heading-nav{
+    background-color: #06314E ! important;
+}
+
+
+.heading-search{
+        background: none;
+        border: none;
+        padding: 4px 0px;
+        max-width: 85%;
+}
+.search{
+    position: relative;
+}
+.search-icon{
+    position: absolute;
+    top: 18%;
+    left: 85%;
+}
+.search-icon a{
+    color: #fff;
+}
+
+.heading-btn{
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#edc86b+0,c6944a+100 */
+background: #edc86b; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #edc86b 0%, #c6944a 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #edc86b 0%,#c6944a 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #edc86b 0%,#c6944a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edc86b', endColorstr='#c6944a',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.heading-btn{
+    border: none;
+    border-radius: 0px;
+    color: #fff !important;
+    padding: 4px 30px;
+    }
+.heading-btn:hover{color: #06314E ! important; 
+    background-color: none !important; 
+    border-color: none !important; }
+.search{
+       margin: 0px 30px 10px 0px;
+    border: 1px solid #EDC86B;
+    max-width: 60%;
+}
+
+.banner-nav{background-color: #fff}
+.banner-nav a{
+    font-size: 20px;
+    margin: 5px 20px;
+}
+
+.skills-secsion{
+    background-color: #06314E;
+    color: #fff;
+}
+.skills-content h1{
+    font-weight: 800;
+    font-size: 51px;
+    line-height: 1.5;
+}
+.skills-secsion span{
+    color: #EDC86B;
+}
+.skills-content p{
+    margin-top: 50px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 0px 35px;
+}
+.skills-secsion img{}
+.skills-secsion h2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.skills-secsion .content{}
+.skills-content{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    }
+.skills-secsion .content p{
+    margin: 0;
+    font-size: 13px;
+    padding: 0px 9px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.video{
+             background-image: url(../images/banner1.png);
+             background-position: center;
+             max-width: 100%;
+       }
+.video-content{
+    text-align: center;
+}
+.video-content h1{
+     font-weight: 800;
+     font-size: 51px;
+     color: #fff;
+     text-align: center;
+     margin-top: 80px;
+}
+
+.video-content span{color: #EDC86B;}
+.video a{
+    color: #EDC86B;
+    display: inline-block;
+    font-size: 100px;
+    padding-top: 30px;
+}
+
+
+
+.plans-section{
+    background-color: #06314E;
+    color: #fff;
+}
+.plans-content{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    }
+.plans-content h1{
+    font-weight: 800;
+    font-size: 51px;
+    line-height: 1.5;
+}
+.plans-content span{
+    color: #EDC86B;
+}
+.plans-content p{
+    margin-top: 50px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 0px 35px;
+}
+
+.justify{justify-content: space-evenly;}
+.plans-gragging1{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0379ba+0,18b2b6+100 */
+background: #0379ba; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #0379ba 0%, #18b2b6 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #0379ba 0%,#18b2b6 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #0379ba 0%,#18b2b6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0379ba', endColorstr='#18b2b6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
+.plans-gragging2{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0379ba+0,18b2b6+0,037aba+100 */
+background: #0379ba; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #0379ba 0%, #18b2b6 0%, #037aba 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #0379ba 0%,#18b2b6 0%,#037aba 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #0379ba 0%,#18b2b6 0%,#037aba 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0379ba', endColorstr='#037aba',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
+
+.plans-gragging1{
+    text-align: center;
+}
+.plans-gragging2{
+    text-align: center;
+}
+
+
+
+.plans-box h2{
+    padding: 35px 0px 0px 0px;
+    font-weight: 800;
+    font-size: 35px;
+}
+.sent{
+    position: relative;
+    max-width: 145px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.sent span{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    font-size: 45px;
+    font-weight: normal;
+}
+.sent h1{
+    font-size: 80px;
+    font-weight: bolder;
+    margin: 0;
+}
+.sent-p{
+    position: absolute;
+    top: 52%;
+    left: 21%;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.plans-btn{
+    border: none;
+    border-radius: 0px;
+    color: #fff !important;
+    padding: 6px 55px;
+    font-size: 20px;
+    margin-top: 18px !important;
+}
+
+.plans-box ul{
+    padding: 0;
+    margin: 0;
+}
+.plans-box li{
+    list-style: none;
+    text-align: center;
+}
+.plans-box p{
+    background: #fff;
+    color: #000;
+    height: 65px;
+    margin: 4px 0px;
+    padding-top: 10px;
+}
+.plans-box{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    background: #DADADA;
+    padding: 5px;
+}
+.btn-bg{
+    background: #fff;
+    height: 80px;
+}
+
+.know{
+    background: #1BBAB5;
+}
+.know h1{
+    text-align: center;
+    margin: 30px;
+    font-size: 25px;
+    font-weight: 800;
+    color: #fff;
+    line-height: 2;
+}
+.know-email{
+    background: none;
+    border: none;
+    border-radius: 0;
+    padding: 15px;
+    max-width: 53%;
+    }
+.know-btn{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    border: none;
+    border-radius: 0px;
+    background: #fff;
+    width: 50%;
+    font-size: 18px;
+    display: inline-block;
+    font-weight: bolder;
+}
+.know-group{
+    position: relative;
+    border: 1px solid #fff;
+    width: 85%;
+    margin: 35px 20px;
+}
+.footer{ background-color: #000; 
+   }
+.f-nav{padding-top: 50px !important;
+    background-color: #000 !important;}
+.footer a{color: #fff;
+        display: inline-block;}
